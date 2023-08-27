@@ -1,0 +1,42 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.4",
+    "heartbeatAt": "2023-08-26T16:12:09.010163",
+    "startedAt": "2023-08-26T16:12:08.161154",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/lin/Documents/python_venvs/production_ready-applied_DL/chap4_experiment_tracking/test_wb.py",
+    "codePath": "chap4_experiment_tracking/test_wb.py",
+    "git": {
+        "remote": "https://github.com/agbleze/production_ready-applied_DL.git",
+        "commit": "41956172e24845caa8e38dfe9e006855977abd1e"
+    },
+    "email": "lagbleze@st.ug.edu.gh",
+    "root": "/Users/lin/Documents/python_venvs/production_ready-applied_DL",
+    "host": "MBP-von-lin",
+    "username": "lin",
+    "executable": "/Users/lin/Documents/python_venvs/pytorch_deepL/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.7246513366699,
+        "used": 19.132362365722656
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
