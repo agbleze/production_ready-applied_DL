@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin/Documents/python_venvs/production_ready-applied_DL/chap4_experiment_tracking/mlruns/0/8c263676ab6f4b01bdd88309915aa18a/artifacts
+end_time: 1693096375262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c263676ab6f4b01bdd88309915aa18a
+run_name: resilient-sponge-633
+run_uuid: 8c263676ab6f4b01bdd88309915aa18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693087342984
+status: 3
+tags: []
+user_id: lin
